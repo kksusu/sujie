@@ -26,7 +26,7 @@ class DivFunction(unittest.TestCase):
         float=div_float(7,2)
         print(float)
     def test_div4(self):
-        pass
+        print("want to div 0")
 if __name__=='__main__':
     unittest.main()
 
